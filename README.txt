@@ -1,6 +1,6 @@
 Fala galera!!
 
-Hoje estou trazendo códigos para tratamento de dados e criação de modelo e previsões usando Random Forest e Redes Neurais.
+Hoje estou trazendo códigos em PYTHON para tratamento de dados e criação de modelo e previsões usando Random Forest e Redes Neurais.
 
 Random Forest
 1 - Verifiquei se existem dados nulos, nesse caso não tinha.
