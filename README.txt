@@ -2,15 +2,18 @@ Fala galera!!
 
 Hoje estou trazendo códigos em PYTHON para tratamento de dados e criação de modelo e previsões usando Random Forest e Redes Neurais.
 
-Random Forest
+Tratamento dos dados
 1 - Verifiquei se existem dados nulos, nesse caso não tinha.
 2 - Agrupei as colunas individualmente para verificar se existem valores fora do padrão.
-3 - Separei os previsores e a classe.
-4 - Fiz um Label Encoder nos previsores.
-5 - Separei os dados para treinamento e teste.
-6 - Criei o modelo de Random Forest com o que separei para treinamento.
-7 - Fiz a previsão com o que separei para teste.
-8 - Fiz a matrix confusão e consegui uma taxa de acerto de 76%
+3 - Não precisei aplicar nenhum tipo de tratamento.
+
+Random Forest
+1 - Separei os previsores e a classe.
+2 - Fiz um Label Encoder nos previsores.
+3 - Separei os dados para treinamento e teste.
+4 - Criei o modelo de Random Forest com o que separei para treinamento.
+5 - Fiz a previsão com o que separei para teste.
+6 - Fiz a matrix confusão e consegui uma taxa de acerto de 76%
 
 Redes Neurais
 1 - O inicio é quase o mesmo, porém fiz um Label Encoder também na classe.
